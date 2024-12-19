@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav____27" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav____27?logo=twitter&style=for-the-badge" alt="vaibhav____27" /></a> </p>
 
-- 🌱 I’m currently learning **full Stack Web development**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Data Structure algorithm & web development**
 
